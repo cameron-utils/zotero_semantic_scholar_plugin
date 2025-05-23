@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "Semantic Scholar Search",
+  "version": "1.0",
+  "description": "Adds a right-click menu item to search for papers on Semantic Scholar.",
+  "applications": {
+    "zotero": {
+      "id": "zotero_semantic_scholar_plugin@cameronbarker.uk",
+      "update_url": "https://",
+      "strict_min_version": "7.0",
+      "strict_max_version": "7.1.*"
+    }
+  }
+}
